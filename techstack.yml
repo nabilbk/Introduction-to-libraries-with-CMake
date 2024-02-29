@@ -2,7 +2,7 @@ repo_name: nabilbk/Introduction-to-libraries-with-CMake
 report_id: 3e9b2ec2d6bb4a24abe2fafe754fd22b
 version: 0.1
 repo_type: Public
-timestamp: '2024-01-05T11:08:27+00:00'
+timestamp: '2024-02-29T19:23:53+00:00'
 requested_by: YansonTech
 provider: github
 branch: master
@@ -30,7 +30,7 @@ tools:
   detection_source_url: https://github.com/nabilbk/Introduction-to-libraries-with-CMake
   detection_source: Repo Metadata
 - name: CMake
-  description: 'An open-source system that manages the build process '
+  description: An open-source system that manages the build process
   website_url: http://www.cmake.org/
   open_source: false
   hosted_saas: false
